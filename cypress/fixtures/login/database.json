@@ -1,0 +1,7 @@
+{
+  "usuarioDeAcesso": {
+    "email": "teste2026@teste.com.br",
+    "senha": "teste",
+    "mensagemValidacaoLogin": "Conectado como"
+    }
+}

@@ -12,7 +12,7 @@ Antes de começar, instale:
 • Git
 
 # 1. Clone o repositório
-git clone https://github.com/seu-usuario/nome-do-projeto.git](https://github.com/ClaudemirNunes19/cypressInmetricks
+git clone https://github.com/seu-usuario/nome-do-projeto.git
 
 # 2. Acesse a pasta do projeto
 cd nome-do-projeto

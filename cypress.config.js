@@ -6,9 +6,10 @@ module.exports = defineConfig({
     setupNodeEvents(on, config) {
       on("file:preprocessor", cucumber());
     },
+    experimentalMemoryManagement: true,
     specPattern: 'cypress/e2e/**/*.feature',
     excludeSpecPattern: ['*.js', '*.ts', '*.md'],
     baseUrl: 'https://www.automationexercise.com',
-    retries: 2
-  }
+    retries: 2,
+  },
 });
